@@ -1,0 +1,10 @@
+C:\Users\92312\source\repos\StudentManagement\StudentManagement.DAL\obj\Debug\netstandard2.0\StudentManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\92312\source\repos\StudentManagement\StudentManagement.DAL\obj\Debug\netstandard2.0\StudentManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92312\source\repos\StudentManagement\StudentManagement.DAL\obj\Debug\netstandard2.0\StudentManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\92312\source\repos\StudentManagement\StudentManagement.DAL\obj\Debug\netstandard2.0\StudentManagement.DAL.AssemblyInfo.cs
+C:\Users\92312\source\repos\StudentManagement\StudentManagement.DAL\obj\Debug\netstandard2.0\StudentManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\92312\source\repos\StudentManagement\StudentManagement.DAL\bin\Debug\netstandard2.0\StudentManagement.DAL.deps.json
+C:\Users\92312\source\repos\StudentManagement\StudentManagement.DAL\bin\Debug\netstandard2.0\StudentManagement.DAL.dll
+C:\Users\92312\source\repos\StudentManagement\StudentManagement.DAL\bin\Debug\netstandard2.0\StudentManagement.DAL.pdb
+C:\Users\92312\source\repos\StudentManagement\StudentManagement.DAL\obj\Debug\netstandard2.0\StudentManagement.DAL.dll
+C:\Users\92312\source\repos\StudentManagement\StudentManagement.DAL\obj\Debug\netstandard2.0\StudentManagement.DAL.pdb
